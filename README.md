@@ -1,13 +1,14 @@
 # Tableau-End-to-End-Data
 
 
-View Data Analysis Dashbaord on Tableau Public Server through the link in the top right hand corner or open document above with Tableau public / desktop application to view.
+View Data Analysis Dashbaord on Tableau Public Server through the link in the top right hand corner or open the document above with Tableau public / desktop application to view.
 
 
 Dashboard Inital Questions: 
 Sales analysis project
 
 Sales data available to analyze it and give inisights to stakeholders to address business decisions.
+
 
 Requirements:  
 
