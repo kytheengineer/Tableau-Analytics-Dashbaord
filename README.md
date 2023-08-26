@@ -7,7 +7,9 @@ View Data Analysis Dashbaord on Tableau Public Server through the link in the to
 Dashboard Inital Questions: 
 Sales analysis project
 
-Sales data available to analyze it and give inisights to stakeholders to address business decisions.
+Sales data available to analyze and give inisights to stakeholders to address business decisions.
+
+
 
 
 Requirements:  
